@@ -1,0 +1,7 @@
+user-theme@gnome-shell-extensions.gcampax.github.comc
+lockscreen-extension@pratap.fastmail.fm
+apps-menu@gnome-shell-extensions.gcampax.github.com
+ding@rastersoft.com
+tiling-assistant@ubuntu.com
+ubuntu-appindicators@ubuntu.com
+ubuntu-dock@ubuntu.com

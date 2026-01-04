@@ -1,0 +1,14 @@
+[/]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']
+search=@as []
+terminal=['<Control><Alt>Tab']
+
+[custom-keybindings/custom0]
+binding='<Control><Alt>z'
+command='zed'
+name='launch zed'
+
+[custom-keybindings/custom1]
+binding='<Alt>space'
+command='/home/speedygo55/Applications/flare_0.1.0_amd64_aed5239d6e968891e2c14c006f67a537.AppImage'
+name='launch flare'

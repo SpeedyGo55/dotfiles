@@ -1,0 +1,14 @@
+[user]
+	email = speedygo55@outlook.com
+	name = SpeedyGo55
+	signingkey = 1C1F26B70CA6FF3D22F1FD48B67F00A777C16968
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true

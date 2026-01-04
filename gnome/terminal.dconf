@@ -1,0 +1,11 @@
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(23,20,33)'
+bold-is-bright=true
+custom-command='/bin/fish'
+font='FiraCode Nerd Font Mono 12'
+foreground-color='rgb(208,207,204)'
+login-shell=true
+palette=['rgb(0,0,0)', 'rgb(205,0,0)', 'rgb(0,205,0)', 'rgb(205,205,0)', 'rgb(0,72,205)', 'rgb(205,0,205)', 'rgb(0,205,205)', 'rgb(250,235,215)', 'rgb(150,150,150)', 'rgb(255,0,0)', 'rgb(0,255,0)', 'rgb(255,255,0)', 'rgb(0,84,255)', 'rgb(255,0,255)', 'rgb(0,255,255)', 'rgb(255,255,255)']
+use-custom-command=true
+use-system-font=false
+use-theme-colors=false

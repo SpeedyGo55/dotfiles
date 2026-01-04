@@ -1,0 +1,27 @@
+# Sensitive files
+*_history
+*.log
+*secret*
+*password*
+*token*
+*.pem
+*.key
+.env
+.env.*
+
+# SSH and GPG
+.ssh/
+.gnupg/
+
+# Browser data
+.mozilla/
+.config/google-chrome/
+.config/BraveSoftware/
+.config/chromium/
+
+# Cache and temporary
+.cache/
+*.swp
+*.swo
+*~
+.DS_Store
